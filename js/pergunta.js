@@ -4,22 +4,25 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Qual é a sua abordagem principal em relação aos recursos pesqueiros ao planejar uma atividade à beira-rio ou no mar?",
-                afirmacao:"Pescar exclusivamente para consumo próprio, respeitando rigorosamente as cotas diárias e os tamanhos mínimos do peixe permitidos pela legislação.,"
+                    afirmacao:["Pescar exclusivamente para consumo próprio, respeitando rigorosamente as cotas diárias e os tamanhos mínimos do peixe permitidos pela legislação.,"
                 "Optar por passeios de observação e ecoturismo náutico, sem a captura ou remoção de qualquer espécie do ecossistema."
+            ]
             },
             {
                 texto:  "pescador Consciente: Valoriza o aproveitamento direto e sustentável da natureza para alimentação, mantendo a atividade estritamente alinhada com as regras de preservação ambiental..",
-                afirmacao: "Observador da Fauna: Prioriza o impacto zero no ecossistema aquático, preferindo a contemplação e o registro da biodiversidade em seu estado natural.."
-            }    
+                afirmacao: ["Observador da Fauna: Prioriza o impacto zero no ecossistema aquático, preferindo a contemplação e o registro da biodiversidade em seu estado natural.."
+            ]
+            }      
            
         ]
     },
     {
        
-            enunciado: "Como você orienta suas escolhas ao adquirir frutos do mar para consumo?"
+            enunciado: "Como você orienta suas escolhas ao adquirir frutos do mar para consumo?",
                 {
                     texto: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsavel.",
-                    afirmacao: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsavel."
+                    afirmacao: ["Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsavel."
+                    ]
                 },
                 {
                     texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
@@ -34,12 +37,14 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacaoirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    afirmacaoirmacao: ["Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    ]
                 },
                 {
                     texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: ["Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    ]
                 }    
                
             ]
