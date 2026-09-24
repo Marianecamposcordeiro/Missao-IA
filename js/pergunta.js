@@ -1,4 +1,4 @@
-const perguntas = [
+ export const perguntas = [
     {
         enunciado: "Em relação à preservação dos ecossistemas aquáticos, qual atitude garante a continuidade dos estoques de peixes e o equilíbrio da fauna?",
         alternativas: [
