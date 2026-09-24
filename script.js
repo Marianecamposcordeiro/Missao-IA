@@ -23,10 +23,9 @@ const perguntas = [
     {
        
             enunciado: "Como você orienta suas escolhas ao adquirir frutos do mar para consumo?"
-            alternativas:[
                 {
-                    texto: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsáve.",
-                    afirmacao: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsáve."
+                    texto: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsavel.",
+                    afirmacao: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsavel."
                 },
                 {
                     texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
