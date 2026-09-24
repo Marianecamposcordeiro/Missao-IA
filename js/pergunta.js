@@ -25,8 +25,8 @@ const perguntas = [
                     ]
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Seria interessante explorar primeiramente fontes renovaveis exotermicas, em segundo plano utilizar a energia geotermica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
+                    afirmacao: "Voce e uma pessoa que da enfase em priorizar os recursos disponiveis, pensando no meio ambiente e sem descartar o vies economico."
                 }    
                
             ]
