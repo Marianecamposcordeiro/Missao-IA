@@ -17,7 +17,7 @@ const perguntas = [
         ]
     },
     {
-       
+
             enunciado: "Como você orienta suas escolhas ao adquirir frutos do mar para consumo?",
                 {
                     texto: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsavel.",
