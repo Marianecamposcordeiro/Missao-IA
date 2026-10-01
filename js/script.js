@@ -92,6 +92,7 @@ botaoJogarNovamente.addEventListener("click", jogaNovamente());
 function jogaNovamente(){
     atual = 0;
     historiaFinal = "";
+    caixaResultado.classList.remove("mostrar");
     mostraPergunta();
 }
 
