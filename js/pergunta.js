@@ -1,51 +1,51 @@
 export const perguntas = [
     {
-        enunciado: "Em relação à preservação dos ecossistemas aquáticos, qual atitude garante a continuidade dos estoques de peixes e o equilíbrio da fauna?",
+        enunciado: "Em relação à preservação dos ecossistemas aquáticos e às práticas de pesca, qual atitude garante a sustentabilidade das espécies e o equilíbrio ambiental?",
         alternativas: [
             {
-                texto: "Pescar exclusivamente para consumo próprio, respeitando rigorosamente as cotas diárias e os tamanhos mínimos do peixe permitidos pela legislação.",
+                texto: "Pescar exclusivamente para consumo próprio, respeitando rigorosamente os períodos de defeso, cotas diárias e tamanhos mínimos permitidos pela legislação.",
                 afirmacao: [
-                    "Pescador Consciente: Valoriza o aproveitamento direto e sustentável da natureza para alimentação, mantendo a atividade estritamente alinhada com as regras de preservação ambiental."
+                    "Pescador Consciente: Valoriza o aproveitamento sustentável da fauna aquática e mantém suas atividades estritamente alinhadas com as leis ambientais."
                 ]
             },
             {
-                texto: "Optar por passeios de observação e ecoturismo náutico, sem a captura ou remoção de qualquer espécie do ecossistema.",
+                texto: "Praticar preferencialmente a pesca esportiva no formato 'pesque e solte' ou optar pelo ecoturismo sem a remoção de espécimes da natureza.",
                 afirmacao: [
-                    "Observador da Fauna: Prioriza o impacto zero no ecossistema aquático, preferindo a contemplação e o registro da biodiversidade em seu estado natural."
+                    "Praticante de Impacto Mínimo: Prioriza a conservação direta dos espécimes e a manutenção da biodiversidade aquática em seu estado natural."
                 ]
             }      
         ]
     },
     {
-        enunciado: "Como você orienta suas escolhas ao adquirir frutos do mar para consumo?",
+        enunciado: "Ao abordar a caça e o manejo da fauna terrestre, qual postura você considera mais adequada para a conservação da biodiversidade?",
         alternativas: [
             {
-                texto: "Escolho produtos com selos de certificação sustentável e oriundos de aquicultura responsável.",
+                texto: "Permitir apenas a caça de controle autorizada por órgãos ambientais para conter espécies exóticas invasoras que ameaçam os ecossistemas locais.",
                 afirmacao: [
-                    "Consumidor Sustentável: Prioriza a procedência responsável e o menor impacto na fauna e ecossistemas marinhos."
+                    "Defensor do Manejo Ecológico: Compreende a caça como uma ferramenta técnica restrita para equilíbrio ambiental e controle de pragas invasoras."
                 ]
             },
             {
-                texto: "Priorizo a relação custo-benefício e a disponibilidade local dos recursos pesqueiros.",
+                texto: "Opor-se a qualquer tipo de abate ou caça de animais, defendendo a proteção integral de todas as espécies e o ecoturismo de observação.",
                 afirmacao: [
-                    "Consumidor Pragmático: Dá ênfase em priorizar os recursos disponíveis, buscando equilibrar o aspecto econômico com o impacto no meio ambiente."
+                    "Preservacionista Integral: Prioriza a proteção e integridade de toda vida silvestre, rejeitando atividades que envolvam a caça."
                 ]
             }    
         ]
     },
     {
-        enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+        enunciado: "Como você age ao presenciar ou ter conhecimento de práticas ilegais, como a caça predatória de animais silvestres ou a pesca em épocas proibidas?",
         alternativas: [
             {
-                texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
+                texto: "Denuncio imediatamente aos órgãos ambientais e à polícia ambiental para combater o tráfico e o abate ilegal de fauna.",
                 afirmacao: [
-                    "Você tem consciência de que é importante ter uma boa autoestima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    "Fiscalizador Ativo: Atua diretamente na proteção da natureza exercendo a cidadania e combatendo crimes ambientais."
                 ]
             },
             {
-                texto: "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                texto: "Recuso-me a comprar qualquer produto oriundo de caça ou pesca ilegal e procuro conscientizar as pessoas ao meu redor.",
                 afirmacao: [
-                    "Você percebe que a autoestima oscila em determinados momentos e reconhece a importância de trabalhar o equilíbrio emocional no dia a dia."
+                    "Conscientizador do Consumo: Combate o comércio ilegal cortando a demanda e disseminando a importância do respeito às leis ambientais."
                 ]
             }
         ]
